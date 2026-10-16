@@ -1,0 +1,1 @@
+Design your plants using genetic modification! Use the program to customize the plants to your specifications by adjusting factors like leaf shape and flower color. The project is still in the idea phase, hopefully one day the program will be used to order custom engineered plants.
